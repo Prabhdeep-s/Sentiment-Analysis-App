@@ -7,8 +7,9 @@ In today’s time, businesses are using Machine Learning (ML) techniques to solv
 ![image](https://github.com/user-attachments/assets/c941d07d-a80a-411b-9be5-ca665d68e0fa)
 
 **NLP Pipeline**
-
-
+<br>
+![image](https://github.com/user-attachments/assets/f299dbc8-672f-44e6-aec0-3a1fc0cbbdab)
+<br>
 
 ![image](https://github.com/user-attachments/assets/3dd84790-b2f1-4b61-9647-98c86af24801)
 
