@@ -5,25 +5,35 @@ In today’s time, businesses are using Machine Learning (ML) techniques to solv
 
 
 ![image](https://github.com/user-attachments/assets/c941d07d-a80a-411b-9be5-ca665d68e0fa)
+
 **NLP Pipeline**
 
 
 
 ![image](https://github.com/user-attachments/assets/3dd84790-b2f1-4b61-9647-98c86af24801)
+
 **Main window of the application**
 
 
+
 ![image](https://github.com/user-attachments/assets/14c0ada1-758e-430b-b51b-ad71565d59d7)
+
 **Histogram of the sentiments**
 
 
+
 ![image](https://github.com/user-attachments/assets/09311568-c9c5-4c51-8b1a-546ef4f9b088)
+
 **Pie chart of the sentiments**
 
 
+
 ![image](https://github.com/user-attachments/assets/ffe0fd5a-05ed-4445-8021-a9b7d4cd68ad)
+
 **Word density category-wise**
 
 
+
 ![image](https://github.com/user-attachments/assets/797a275a-ca36-4106-94e4-01894f816fcf)
+
 **Theme identification (using LDA) from the reviews**
